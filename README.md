@@ -1,4 +1,7 @@
 # web-form-project
+Small Project I have created using VueJs3 
+This project is only based on vue.js it is created without using any other framework
+Make sure run following commands to run the project
 
 ## Project setup
 ```
